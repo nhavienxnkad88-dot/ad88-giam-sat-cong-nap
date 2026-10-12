@@ -1,6 +1,6 @@
 {
- "version": "1.0.3",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.3.zip",
- "sha256": "b8c2bdfc0b51c835e3654bf9508ed4f256c0f6405cddd15984c5cf3a4cf2bab1",
- "notes": "Bấm vào ô Tổng đơn / Thành công / Đang chờ / Chờ quá 5 phút / Thất bại (ở Tổng quan, Nhà thứ 3, Tốc độ) để mở ngay danh sách đơn tương ứng; tải đơn nhanh hết mức BO cho phép"
+ "version": "1.0.5",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.5.zip",
+ "sha256": "4d369fb9f1be628c9e803363d20be51da3f6ead5b75ebd53289fd49ea8dcc73d",
+ "notes": "Phân loại đúng tình trạng đơn theo BO: chỉ 'Đặt cọc không thành công' là lỗi (kèm lý do BO ghi); 'Hết thời gian nạp tiền' và 'Hủy trong nền' tách riêng thành Hết hạn/huỷ; số dư tự làm mới từng nhà; tải tiếp chỗ dở khi nâng cấp"
 }
