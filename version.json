@@ -1,6 +1,6 @@
 {
- "version": "1.0.24",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.24.zip",
- "sha256": "9f81a0337172a4311f4a2f2187deddccee6c495f4eb98500567362d275c32a15",
- "notes": "Trạng thái cổng: bảng ĐANG BẬT/ĐANG TẮT, nút Làm mới (F5) đọc lại BO ngay; bỏ ghi chú dài"
+ "version": "1.0.27",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.27.zip",
+ "sha256": "fa6ab7690a3c75db2beb5c2843a74a863578806b307a17f8041416324f0d9b7e",
+ "notes": "Trạng thái cổng: đọc thêm tab Kênh bị vô hiệu hóa (paySetOnlineStop) để hiện kênh đang tắt"
 }
