@@ -1,6 +1,6 @@
 {
- "version": "1.0.18",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.18.zip",
- "sha256": "83755b49fda1db814fd3eba7dea1bf580a66edef6534f075d224ddec0d258fc5",
- "notes": "Thêm tab Bảo trì cổng: lịch sử bảo trì/lỗi cổng trong ngày, số lần mỗi cổng, Excel"
+ "version": "1.0.20",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.20.zip",
+ "sha256": "92d83b2ddb5a5768f0bf307a9be4181c8e9879b5aa14c5a199c18bb0e4faba9c",
+ "notes": "Thêm 4 ảnh ngày + 4 ảnh đêm; chế độ Tự động: ngày sáng, đêm tối"
 }
