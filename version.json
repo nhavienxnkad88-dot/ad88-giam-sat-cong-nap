@@ -1,6 +1,6 @@
 {
- "version": "1.0.28",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.28.zip",
- "sha256": "ae8f58acd1ebc4bb3105ee1c3049a0137e495977a5d36002151713a92ccda0a3",
- "notes": "Thêm 10 phông chữ chuyên nghiệp: Inter (kiểu Apple), Hệ thống SF Pro/Segoe UI, Plus Jakarta Sans, IBM Plex Sans..."
+ "version": "1.0.29",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.29.zip",
+ "sha256": "74a54f10436d831d5eda5a9a18c89ac66cdb69bbf286ca471750e9b30fc6090f",
+ "notes": "Bảo trì cổng theo Trạng thái cổng: BO tắt = bảo trì, tool phát hiện lỗi = bảo trì, hoàn tất khi BO bật lại + có đơn thành công"
 }
