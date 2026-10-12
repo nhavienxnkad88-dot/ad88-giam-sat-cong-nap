@@ -1,6 +1,6 @@
 {
- "version": "1.0.12",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.12.zip",
- "sha256": "3ea0b2a51e0d6ea81987e626e4c721feb7d2f504cc1b6a683b0a500d94f3e6d9",
- "notes": "Thêm tab Lệnh ảo: tự phát hiện tài khoản tên lung tung + lệnh từ 50 triệu + 3 lệnh không thành công; đánh dấu/bỏ qua, sao chép danh sách dán vào BO, tải Excel"
+ "version": "1.0.14",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.14.zip",
+ "sha256": "cbb2c703a55330347bbe30af98ed63429a5de6a4f01532b443fd72ec8e41fcb2",
+ "notes": "Thêm ô chọn ngày trong từng mục (Nhà thứ 3, Cổng nạp, Tốc độ, Danh sách đơn, Lệnh ảo) để xem lại và tải Excel dữ liệu ngày cũ"
 }
