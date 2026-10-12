@@ -1,6 +1,6 @@
 {
- "version": "1.0.5",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.5.zip",
- "sha256": "4d369fb9f1be628c9e803363d20be51da3f6ead5b75ebd53289fd49ea8dcc73d",
- "notes": "Phân loại đúng tình trạng đơn theo BO: chỉ 'Đặt cọc không thành công' là lỗi (kèm lý do BO ghi); 'Hết thời gian nạp tiền' và 'Hủy trong nền' tách riêng thành Hết hạn/huỷ; số dư tự làm mới từng nhà; tải tiếp chỗ dở khi nâng cấp"
+ "version": "1.0.6",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.6.zip",
+ "sha256": "9d86fd4fc9866e956523d6e315479284407b5009ce0b8239746dd792ab323872",
+ "notes": "Sửa số dư 'đang lấy…': lấy đúng bản ghi kênh rút của từng nhà, đọc đủ các trang listV2, báo rõ lỗi nếu BO không trả số dư; phát hiện bản nâng cấp ngay khi tải lên GitHub"
 }
