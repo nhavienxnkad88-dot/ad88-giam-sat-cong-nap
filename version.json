@@ -1,6 +1,6 @@
 {
- "version": "1.0.7",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.7.zip",
- "sha256": "06276931ac0f6685c60e6af09f6a98ca132c6db87d0a2c89edb1aa27b6084bc1",
- "notes": "Sửa lấy số dư: gọi làm mới số dư đúng kiểu BO (POST) cho từng nhà, chọn đúng kênh rút; số dư hiện đủ tất cả nhà"
+ "version": "1.0.8",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.8.zip",
+ "sha256": "4941c96f7da3fbfd74db7c0fb20a985693f2cb17cd7e5e17cbeaa8d19d520290",
+ "notes": "Thêm nút Tải Excel ở tab Danh sách đơn: tải đúng loại đơn đang xem (đang chờ, thành công, thất bại, hết hạn/huỷ, tất cả) theo bộ lọc nhà/cổng/thời gian"
 }
