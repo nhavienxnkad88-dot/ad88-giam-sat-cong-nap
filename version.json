@@ -1,6 +1,6 @@
 {
- "version": "1.0.15",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.15.zip",
- "sha256": "5df56778c1783fd4d2cda7f969133344f2a1b2b96dee4cda89f882b2f9c75dcf",
- "notes": "Không tính lệnh ảo vào tỷ lệ/trạng thái/cảnh báo cổng; cảnh báo Lỗi cổng khi khách thật bị 'Đặt cọc không thành công' (kèm lý do BO); cảnh báo riêng ẢO cho tài khoản tạo lệnh ảo; nhãn Lệnh ảo trong danh sách đơn"
+ "version": "1.0.16",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.16.zip",
+ "sha256": "022db15a290f3d85490224212c2bce79c5e609e1979466a09967a9129e844340",
+ "notes": "Thêm khung giờ Tự chọn (giờ:phút:giây) ở tất cả các mục"
 }
