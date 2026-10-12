@@ -1,6 +1,6 @@
 {
- "version": "1.0.1",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.1.zip",
- "sha256": "49c7044a53bbd7e742e330bde95d86555bd606505a196476a8991df36e42d8ab",
- "notes": "Sửa lỗi BO bắt chờ 4 giây làm tool tải lại từ đầu; tải tiếp từ trang đang dở; mở lại tool đọc bù; ghép nhà USDT với số dư"
+ "version": "1.0.3",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.3.zip",
+ "sha256": "b8c2bdfc0b51c835e3654bf9508ed4f256c0f6405cddd15984c5cf3a4cf2bab1",
+ "notes": "Bấm vào ô Tổng đơn / Thành công / Đang chờ / Chờ quá 5 phút / Thất bại (ở Tổng quan, Nhà thứ 3, Tốc độ) để mở ngay danh sách đơn tương ứng; tải đơn nhanh hết mức BO cho phép"
 }
