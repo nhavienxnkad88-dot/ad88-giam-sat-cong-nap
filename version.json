@@ -1,6 +1,6 @@
 {
- "version": "1.0.27",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.27.zip",
- "sha256": "fa6ab7690a3c75db2beb5c2843a74a863578806b307a17f8041416324f0d9b7e",
- "notes": "Trạng thái cổng: đọc thêm tab Kênh bị vô hiệu hóa (paySetOnlineStop) để hiện kênh đang tắt"
+ "version": "1.0.28",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.28.zip",
+ "sha256": "ae8f58acd1ebc4bb3105ee1c3049a0137e495977a5d36002151713a92ccda0a3",
+ "notes": "Thêm 10 phông chữ chuyên nghiệp: Inter (kiểu Apple), Hệ thống SF Pro/Segoe UI, Plus Jakarta Sans, IBM Plex Sans..."
 }
