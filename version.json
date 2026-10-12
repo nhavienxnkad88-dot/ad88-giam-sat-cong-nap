@@ -1,6 +1,6 @@
 {
- "version": "1.0.16",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.16.zip",
- "sha256": "022db15a290f3d85490224212c2bce79c5e609e1979466a09967a9129e844340",
- "notes": "Thêm khung giờ Tự chọn (giờ:phút:giây) ở tất cả các mục"
+ "version": "1.0.18",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.18.zip",
+ "sha256": "83755b49fda1db814fd3eba7dea1bf580a66edef6534f075d224ddec0d258fc5",
+ "notes": "Thêm tab Bảo trì cổng: lịch sử bảo trì/lỗi cổng trong ngày, số lần mỗi cổng, Excel"
 }
