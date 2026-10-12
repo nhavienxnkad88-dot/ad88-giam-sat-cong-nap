@@ -1,6 +1,6 @@
 {
- "version": "1.0.8",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.8.zip",
- "sha256": "4941c96f7da3fbfd74db7c0fb20a985693f2cb17cd7e5e17cbeaa8d19d520290",
- "notes": "Thêm nút Tải Excel ở tab Danh sách đơn: tải đúng loại đơn đang xem (đang chờ, thành công, thất bại, hết hạn/huỷ, tất cả) theo bộ lọc nhà/cổng/thời gian"
+ "version": "1.0.9",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.9.zip",
+ "sha256": "c4a31ce22565a0cdaeda98291d1f4585d56027e89a43a6db5d208e325a3a3dcf",
+ "notes": "Thêm cột Số lần nạp của khách (thành công / tổng, nhãn Lần đầu/Lần 2) ở mọi danh sách đơn và file Excel"
 }
