@@ -1,6 +1,6 @@
 {
- "version": "1.0.14",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.14.zip",
- "sha256": "cbb2c703a55330347bbe30af98ed63429a5de6a4f01532b443fd72ec8e41fcb2",
- "notes": "Thêm ô chọn ngày trong từng mục (Nhà thứ 3, Cổng nạp, Tốc độ, Danh sách đơn, Lệnh ảo) để xem lại và tải Excel dữ liệu ngày cũ"
+ "version": "1.0.15",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.15.zip",
+ "sha256": "5df56778c1783fd4d2cda7f969133344f2a1b2b96dee4cda89f882b2f9c75dcf",
+ "notes": "Không tính lệnh ảo vào tỷ lệ/trạng thái/cảnh báo cổng; cảnh báo Lỗi cổng khi khách thật bị 'Đặt cọc không thành công' (kèm lý do BO); cảnh báo riêng ẢO cho tài khoản tạo lệnh ảo; nhãn Lệnh ảo trong danh sách đơn"
 }
