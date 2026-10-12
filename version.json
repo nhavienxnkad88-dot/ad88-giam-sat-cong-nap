@@ -1,6 +1,6 @@
 {
- "version": "1.0.9",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.9.zip",
- "sha256": "c4a31ce22565a0cdaeda98291d1f4585d56027e89a43a6db5d208e325a3a3dcf",
- "notes": "Thêm cột Số lần nạp của khách (thành công / tổng, nhãn Lần đầu/Lần 2) ở mọi danh sách đơn và file Excel"
+ "version": "1.0.12",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.12.zip",
+ "sha256": "3ea0b2a51e0d6ea81987e626e4c721feb7d2f504cc1b6a683b0a500d94f3e6d9",
+ "notes": "Thêm tab Lệnh ảo: tự phát hiện tài khoản tên lung tung + lệnh từ 50 triệu + 3 lệnh không thành công; đánh dấu/bỏ qua, sao chép danh sách dán vào BO, tải Excel"
 }
