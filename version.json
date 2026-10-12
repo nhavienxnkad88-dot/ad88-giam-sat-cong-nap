@@ -1,6 +1,6 @@
 {
- "version": "1.0.20",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.20.zip",
- "sha256": "92d83b2ddb5a5768f0bf307a9be4181c8e9879b5aa14c5a199c18bb0e4faba9c",
- "notes": "Thêm 4 ảnh ngày + 4 ảnh đêm; chế độ Tự động: ngày sáng, đêm tối"
+ "version": "1.0.22",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.22.zip",
+ "sha256": "774103f420dd5160ccf72686e7826a653105ffe664f3506ec733ad2db4fc88f3",
+ "notes": "Bảo trì cổng: chỉ tính đơn BO ghi lý do phía cổng, bỏ lỗi do khách / không ghi lý do"
 }
