@@ -1,6 +1,6 @@
 {
- "version": "1.0.64",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.64.zip",
- "sha256": "8dd327fe2aec048ecee5d646ae41c94c6ca564e64d0d7dfc80e4b2c599bcd19b",
- "notes": "Tách lỗi 'không có quyền' khỏi 'mất đăng nhập': báo rõ trang BO nào thiếu quyền, các phần khác vẫn chạy"
+ "version": "1.0.65",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.65.zip",
+ "sha256": "5beef99691fc9a0967faf335671fe5a67c2ea122dcdf6e3d54dee4d4e11ef410",
+ "notes": "Thêm tab Kiểm soát nạp (đơn khách nạp vào cập nhật 3/5/10 giây, cảnh báo đỏ khi nạp vào cổng bảo trì) và tab Thứ tự cổng (thứ tự kênh như trên BO, tự cập nhật khi kéo)"
 }
