@@ -1,6 +1,6 @@
 {
- "version": "1.0.65",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.65.zip",
- "sha256": "5beef99691fc9a0967faf335671fe5a67c2ea122dcdf6e3d54dee4d4e11ef410",
- "notes": "Thêm tab Kiểm soát nạp (đơn khách nạp vào cập nhật 3/5/10 giây, cảnh báo đỏ khi nạp vào cổng bảo trì) và tab Thứ tự cổng (thứ tự kênh như trên BO, tự cập nhật khi kéo)"
+ "version": "1.0.67",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.67.zip",
+ "sha256": "5a7ff31b4aaef37efd4f410539105ba994413fa64438b73041967b9c9df9b22a",
+ "notes": "Kiểm soát nạp: luôn hiện đủ các cổng nạp (Momo, Zalo, Thẻ cào, Viettel Pay, USDT…), số đơn theo cả ngày"
 }
