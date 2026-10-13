@@ -1,6 +1,6 @@
 {
- "version": "1.0.60",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.60.zip",
- "sha256": "d5ed27254d53819a33603eb61be3b3a0b0ec91cafe8d5cc8c5ded353fb27c564",
- "notes": "Giám sát nhập: kiểm tra mã mốc thời gian BO (bỏ mã sai trả hàng trăm nghìn đơn); tự đối chiếu từng giờ có thời gian riêng mỗi lượt"
+ "version": "1.0.61",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.61.zip",
+ "sha256": "971552af7adcd8870e29bd6d14b3d5df15f5c76d59c6323a83606c4bc546a2ce",
+ "notes": "Giám sát nhập: nút Đối chiếu & đồng bộ với BO từng giờ; tính cả đơn tạo tối hôm trước thành công sau 00:00"
 }
