@@ -1,6 +1,6 @@
 {
- "version": "1.0.38",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.38.zip",
- "sha256": "97a254d7fd77a5bd8c0b52aeee16be5a394e5f4967687688b1ad8a4432565878",
- "notes": "Thêm khu GIÁM SÁT XUẤT KHOẢN: tốc độ chi từng nhà, FK/XNK, số dư bên rút, 4 file Excel dán biểu"
+ "version": "1.0.44",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.44.zip",
+ "sha256": "76d96cb2aecc50fcd257445470d2600edad4103e1fa8b5a021b72db7c40ceaf7",
+ "notes": "Tự lấy FK từ BO hoàn toàn tự động (tự xuất, tự giải mã mật khẩu, tự tải và giải nén); sửa lỗi tab Tải Excel bản 1.0.43"
 }
