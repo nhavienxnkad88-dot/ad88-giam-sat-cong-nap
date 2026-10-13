@@ -1,6 +1,6 @@
 {
- "version": "1.0.46",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.46.zip",
- "sha256": "04a95008ead75b0107d844bbec3fe3d267cf12cc3d66ddb612df4419f499f2c7",
- "notes": "Giám sát xuất: đọc thêm hàng chờ Thanh toán tài chính (chờ XNK chuyển tiền) và hiện đủ thông tin lệnh như BO"
+ "version": "1.0.47",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.47.zip",
+ "sha256": "a478cbe0b97e3c0b726427609b64fa7ebe1b3192e05d086c1629daa811f64573",
+ "notes": "Bỏ mục Khối lượng công việc; nút Lấy FK từ file BO vừa xuất (BO bắt mã bảo mật khi xuất)"
 }
