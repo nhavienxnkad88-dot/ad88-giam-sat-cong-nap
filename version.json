@@ -1,6 +1,6 @@
 {
- "version": "1.0.44",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.44.zip",
- "sha256": "76d96cb2aecc50fcd257445470d2600edad4103e1fa8b5a021b72db7c40ceaf7",
- "notes": "Tự lấy FK từ BO hoàn toàn tự động (tự xuất, tự giải mã mật khẩu, tự tải và giải nén); sửa lỗi tab Tải Excel bản 1.0.43"
+ "version": "1.0.46",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.46.zip",
+ "sha256": "04a95008ead75b0107d844bbec3fe3d267cf12cc3d66ddb612df4419f499f2c7",
+ "notes": "Giám sát xuất: đọc thêm hàng chờ Thanh toán tài chính (chờ XNK chuyển tiền) và hiện đủ thông tin lệnh như BO"
 }
