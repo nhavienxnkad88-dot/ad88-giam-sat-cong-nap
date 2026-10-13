@@ -1,6 +1,6 @@
 {
- "version": "1.0.47",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.47.zip",
- "sha256": "a478cbe0b97e3c0b726427609b64fa7ebe1b3192e05d086c1629daa811f64573",
- "notes": "Bỏ mục Khối lượng công việc; nút Lấy FK từ file BO vừa xuất (BO bắt mã bảo mật khi xuất)"
+ "version": "1.0.48",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.48.zip",
+ "sha256": "b14e3403089a4a67843d2fe3a968075ac8cfb118d17671b4adee8aecfa3ce3d0",
+ "notes": "Giám sát xuất: thêm tab Tốc độ nhà thứ 3 (TB xử lý đơn, TB nhà chi, tăng/giảm so khung trước và hôm qua, theo giờ)"
 }
