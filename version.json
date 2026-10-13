@@ -1,6 +1,6 @@
 {
- "version": "1.0.56",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.56.zip",
- "sha256": "2f670da334048e6ca4f1421e89f46bcd7c9acf463904620e167ce3157625bd63",
- "notes": "Tốc độ xử lý: chọn theo cổng nạp; mọi bảng nhập + xuất bấm tiêu đề cột để sắp xếp tăng/giảm"
+ "version": "1.0.58",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.58.zip",
+ "sha256": "505f71329b163f80e6f6a0ee1e8e68998081379bb9840316dcdb34016e53938b",
+ "notes": "Giám sát nhập: Danh sách đơn có ô Lọc theo Tạo thời gian / Thời gian thành công / Cập nhật thời gian, đọc đúng số từ BO"
 }
