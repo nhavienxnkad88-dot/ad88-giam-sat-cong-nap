@@ -1,6 +1,6 @@
 {
- "version": "1.0.61",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.61.zip",
- "sha256": "971552af7adcd8870e29bd6d14b3d5df15f5c76d59c6323a83606c4bc546a2ce",
- "notes": "Giám sát nhập: nút Đối chiếu & đồng bộ với BO từng giờ; tính cả đơn tạo tối hôm trước thành công sau 00:00"
+ "version": "1.0.62",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.62.zip",
+ "sha256": "f2ace5fdd3a8fbcd2260ba5ced701cfe1beac6193335251da62084ad0b471448",
+ "notes": "Giám sát nhập: đối chiếu từng giờ theo cả số đơn và tổng tiền thành công (bắt đơn chờ/hết hạn thành công muộn)"
 }
