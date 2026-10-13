@@ -1,6 +1,6 @@
 {
- "version": "1.0.29",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.29.zip",
- "sha256": "74a54f10436d831d5eda5a9a18c89ac66cdb69bbf286ca471750e9b30fc6090f",
- "notes": "Bảo trì cổng theo Trạng thái cổng: BO tắt = bảo trì, tool phát hiện lỗi = bảo trì, hoàn tất khi BO bật lại + có đơn thành công"
+ "version": "1.0.31",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.31.zip",
+ "sha256": "76dd4e2a98b150ca004d2abd5e3423b493fade94b8661335ef60825a3b559e0c",
+ "notes": "Tải dữ liệu cổng nạp: chọn mốc Thời gian thành công / Cập nhật thời gian / Tạo thời gian như BO"
 }
