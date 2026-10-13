@@ -1,6 +1,6 @@
 {
- "version": "1.0.62",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.62.zip",
- "sha256": "f2ace5fdd3a8fbcd2260ba5ced701cfe1beac6193335251da62084ad0b471448",
- "notes": "Giám sát nhập: đối chiếu từng giờ theo cả số đơn và tổng tiền thành công (bắt đơn chờ/hết hạn thành công muộn)"
+ "version": "1.0.63",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.63.zip",
+ "sha256": "d002d34748221713cccc06916797b7710d99776570d26062cdf7540199d3b0a9",
+ "notes": "Đăng nhập BO: tự theo đúng tên miền BO đang đăng nhập trên máy; báo rõ chi tiết khi BO từ chối phiên"
 }
