@@ -1,6 +1,6 @@
 {
- "version": "1.0.67",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.67.zip",
- "sha256": "5a7ff31b4aaef37efd4f410539105ba994413fa64438b73041967b9c9df9b22a",
- "notes": "Kiểm soát nạp: luôn hiện đủ các cổng nạp (Momo, Zalo, Thẻ cào, Viettel Pay, USDT…), số đơn theo cả ngày"
+ "version": "1.0.68",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.68.zip",
+ "sha256": "114528d261f01b8444a170a35306d91f4d6aaa7bbb0bb29a2aabeb2974dde4a3",
+ "notes": "Kiểm soát nạp: bảng đơn dài theo trang, rộng hết màn hình, tiêu đề cột dính trên cùng; nút Xem thêm"
 }
