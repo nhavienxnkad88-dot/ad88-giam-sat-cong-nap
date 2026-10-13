@@ -1,6 +1,6 @@
 {
- "version": "1.0.31",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.31.zip",
- "sha256": "76dd4e2a98b150ca004d2abd5e3423b493fade94b8661335ef60825a3b559e0c",
- "notes": "Tải dữ liệu cổng nạp: chọn mốc Thời gian thành công / Cập nhật thời gian / Tạo thời gian như BO"
+ "version": "1.0.34",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.34.zip",
+ "sha256": "0ff2c0b82058a97112dc10f77aa92b645bcad1c7628d91ba5e5897d9794691c8",
+ "notes": "Tải dữ liệu cổng nạp: thêm ô chọn Nhà bên thứ 3 và Tình trạng đơn hàng như BO"
 }
