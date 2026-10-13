@@ -1,6 +1,6 @@
 {
- "version": "1.0.68",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.68.zip",
- "sha256": "114528d261f01b8444a170a35306d91f4d6aaa7bbb0bb29a2aabeb2974dde4a3",
- "notes": "Kiểm soát nạp: bảng đơn dài theo trang, rộng hết màn hình, tiêu đề cột dính trên cùng; nút Xem thêm"
+ "version": "1.0.69",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.69.zip",
+ "sha256": "9ff3226ac13976e994171b6bb1c65334a3d4c4005b9cc0b3c1102eb781939ca7",
+ "notes": "Kiểm soát nạp: trở lại bề rộng cũ, khung đơn cao gần bằng màn hình và lăn bên trong khung"
 }
