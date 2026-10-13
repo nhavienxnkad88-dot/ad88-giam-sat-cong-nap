@@ -1,6 +1,6 @@
 {
- "version": "1.0.35",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.35.zip",
- "sha256": "9ba33239a82d565216b5d1ce12d360937dbcc2406b22d49f147eb614f05ee97d",
- "notes": "Tải dữ liệu cổng nạp theo Thời gian thành công / Cập nhật thời gian tính ngay từ dữ liệu đã lưu, không quét lại BO"
+ "version": "1.0.38",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.38.zip",
+ "sha256": "97a254d7fd77a5bd8c0b52aeee16be5a394e5f4967687688b1ad8a4432565878",
+ "notes": "Thêm khu GIÁM SÁT XUẤT KHOẢN: tốc độ chi từng nhà, FK/XNK, số dư bên rút, 4 file Excel dán biểu"
 }
