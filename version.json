@@ -1,6 +1,6 @@
 {
- "version": "1.0.51",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.51.zip",
- "sha256": "a60bb4c52a4e64211d7fd7b8bb8ba46599e997d0e950b9d39c590372c244f76e",
- "notes": "Giám sát xuất: sửa nút Tìm ngày cũ (không bị bấm chồng, hiện tiến trình, tạm dừng quét hôm nay khi đang tải, đổi ngày tự lấy cả ngày)"
+ "version": "1.0.52",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.52.zip",
+ "sha256": "58879688e002d5b43980724a0474411325676311f875eb36929f4c52064bbf12",
+ "notes": "Giám sát xuất: tính cả lệnh tạo trước 00:00 hoàn thành trong ngày; số tiền theo 'Số tiền rút' như BO (sửa lệnh USDT); bấm cảnh báo mở đúng lệnh"
 }
