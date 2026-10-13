@@ -1,6 +1,6 @@
 {
- "version": "1.0.52",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.52.zip",
- "sha256": "58879688e002d5b43980724a0474411325676311f875eb36929f4c52064bbf12",
- "notes": "Giám sát xuất: tính cả lệnh tạo trước 00:00 hoàn thành trong ngày; số tiền theo 'Số tiền rút' như BO (sửa lệnh USDT); bấm cảnh báo mở đúng lệnh"
+ "version": "1.0.55",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.55.zip",
+ "sha256": "4e9ecd1e3add9fe254ada69f076d21f39f52720fe99b0954083a0bf1a4ec7ca6",
+ "notes": "Giám sát xuất: mỗi lần tải Excel tự đối chiếu BO, lệch thì sửa cho khớp từng đồng rồi mới tải"
 }
