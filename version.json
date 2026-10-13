@@ -1,6 +1,6 @@
 {
- "version": "1.0.48",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.48.zip",
- "sha256": "b14e3403089a4a67843d2fe3a968075ac8cfb118d17671b4adee8aecfa3ce3d0",
- "notes": "Giám sát xuất: thêm tab Tốc độ nhà thứ 3 (TB xử lý đơn, TB nhà chi, tăng/giảm so khung trước và hôm qua, theo giờ)"
+ "version": "1.0.49",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.49.zip",
+ "sha256": "49f70c067e1c96c567ec5e771f0de94d740f8498b6dd394fac080cc4273079c0",
+ "notes": "Giám sát xuất: hiện lần đẩy nhà 01/02/03 và lịch sử đẩy nhà của từng lệnh; cột Đẩy lại (02+) theo nhà"
 }
