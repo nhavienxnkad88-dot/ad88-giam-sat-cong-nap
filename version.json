@@ -1,6 +1,6 @@
 {
- "version": "1.0.55",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.55.zip",
- "sha256": "4e9ecd1e3add9fe254ada69f076d21f39f52720fe99b0954083a0bf1a4ec7ca6",
- "notes": "Giám sát xuất: mỗi lần tải Excel tự đối chiếu BO, lệch thì sửa cho khớp từng đồng rồi mới tải"
+ "version": "1.0.56",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.56.zip",
+ "sha256": "2f670da334048e6ca4f1421e89f46bcd7c9acf463904620e167ce3157625bd63",
+ "notes": "Tốc độ xử lý: chọn theo cổng nạp; mọi bảng nhập + xuất bấm tiêu đề cột để sắp xếp tăng/giảm"
 }
