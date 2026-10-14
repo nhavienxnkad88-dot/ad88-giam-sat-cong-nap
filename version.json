@@ -1,6 +1,6 @@
 {
- "version": "1.0.77",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.77.zip",
- "sha256": "a162ad0f256432e46ce3d9f45200418d26c97b50097af9228311ef4fb32db37f",
- "notes": "Cổng nạp: thêm biểu đồ đơn nạp thành công theo ngày (30/31 cột/tháng) và số khách nạp, tổng tháng. Giám sát XUẤT (tab Nhân viên): lệnh rút & khách rút theo giờ, lệnh rút đã chi theo ngày/tháng. Tool tự lưu số liệu mỗi ngày."
+ "version": "1.0.78",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.78.zip",
+ "sha256": "536c4318a6b5a0f3f612d5dcffbb036bf6b3bdc4d624fc3a97654a89f693a235",
+ "notes": "Giám sát XUẤT: thêm tab Thống kê rút (nạp − rút theo ngày, lệnh & tiền rút theo giờ, lý do lỗi/hủy, khách rút đáng chú ý, lệnh đã chi theo ngày). Tab Nhân viên FK/XNK: lệnh đang bị giữ lâu, phân bố thời gian, đúng hạn, từ chối, đẩy lại, ca làm theo giờ."
 }
