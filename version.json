@@ -1,6 +1,6 @@
 {
- "version": "1.0.76",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.76.zip",
- "sha256": "b9047acb8ef9163a07ff2ce3d7b54dc90b9100c6b979f08a19a5a99966039cd8",
- "notes": "Sửa tiếng báo: tool không còn giữ thiết bị âm thanh của Chrome sau mỗi lần kêu (tránh lỗi AudioContext và làm treo âm thanh Zoom web)."
+ "version": "1.0.77",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.77.zip",
+ "sha256": "a162ad0f256432e46ce3d9f45200418d26c97b50097af9228311ef4fb32db37f",
+ "notes": "Cổng nạp: thêm biểu đồ đơn nạp thành công theo ngày (30/31 cột/tháng) và số khách nạp, tổng tháng. Giám sát XUẤT (tab Nhân viên): lệnh rút & khách rút theo giờ, lệnh rút đã chi theo ngày/tháng. Tool tự lưu số liệu mỗi ngày."
 }
