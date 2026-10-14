@@ -1,9 +1,0 @@
-{
-  "version": "1.4.207",
-  "zip": "ad88-1.4.207.zip",
-  "sha256": "b9c86597fff6a6a9c4756e6363731a133c7cda9387282908ff556ac8718daad3",
-  "size": 2081090,
-  "notes": "Chạy nhẹ khi thu nhỏ giao diện: ngừng vẽ lại và bớt ghi nhật ký; giữ nguyên xử lý đơn",
-  "date": "2026-10-14T03:28:15.348Z",
-  "sig": "1VbsbatnAkcQqlpNysSsO1AFIJd3vT151ALa2_ijyN1nWLtiAxuh0cBUef0SsVokGyxEXVbfmTy5fzHWQJzIPQ"
-}
