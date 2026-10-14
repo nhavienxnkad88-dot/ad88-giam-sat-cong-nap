@@ -1,6 +1,6 @@
 {
- "version": "1.0.71",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.71.zip",
- "sha256": "7af4ae4a47685478e4bdc9cc200ece8cd2b8abc2ab3b9c9faece1462d5a685e8",
- "notes": "Phí nhà thứ 3: chia mục Tổng quan / Thẻ cào / USDT / Thủ công / Tỷ lệ phí; tính phí như sổ (thẻ cào công ty chịu, USDT quy VND, thủ công dán số lệnh); phí theo ngày & tháng; màu + theme tối"
+ "version": "1.0.72",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.72.zip",
+ "sha256": "b669a0c03745c88dd2b1fbd5e9ee2814bb19759832c883515b42d1d8a4ab417c",
+ "notes": "Cổng nạp: giao diện mới (thẻ cổng, bảng theo nhà có tên nhà màu, ma trận tỷ lệ nhà × cổng). Nhà thứ 3: giao diện thẻ mới, số dư xanh/vàng/đỏ theo hạn mức. Tổng quan: số dư tô màu theo hạn mức. Cài đặt: sửa hạn mức số dư từng nhà."
 }
