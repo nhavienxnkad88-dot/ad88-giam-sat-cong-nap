@@ -1,6 +1,6 @@
 {
- "version": "1.0.72",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.72.zip",
- "sha256": "b669a0c03745c88dd2b1fbd5e9ee2814bb19759832c883515b42d1d8a4ab417c",
- "notes": "Cổng nạp: giao diện mới (thẻ cổng, bảng theo nhà có tên nhà màu, ma trận tỷ lệ nhà × cổng). Nhà thứ 3: giao diện thẻ mới, số dư xanh/vàng/đỏ theo hạn mức. Tổng quan: số dư tô màu theo hạn mức. Cài đặt: sửa hạn mức số dư từng nhà."
+ "version": "1.0.74",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.74.zip",
+ "sha256": "d3860c61a6666ebf644663c049f0bad66d8a3605b84a71bbb69cf85674c946bc",
+ "notes": "Tổng quan: bỏ tô màu số dư, chỉ cảnh báo theo cổng nạp. Màu số dư theo hạn mức chỉ hiện ở tab Nhà thứ 3."
 }
