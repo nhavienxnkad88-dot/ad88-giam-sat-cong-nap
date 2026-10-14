@@ -1,6 +1,6 @@
 {
- "version": "1.0.74",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.74.zip",
- "sha256": "d3860c61a6666ebf644663c049f0bad66d8a3605b84a71bbb69cf85674c946bc",
- "notes": "Tổng quan: bỏ tô màu số dư, chỉ cảnh báo theo cổng nạp. Màu số dư theo hạn mức chỉ hiện ở tab Nhà thứ 3."
+ "version": "1.0.75",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.75.zip",
+ "sha256": "497e2be9a10cd2260d967d6e4ba87f31394ea1b30b8d17e06df9ce49a767c530",
+ "notes": "Giám sát XUẤT: thêm tab Tốc độ xuất khoản BT3 — xếp hạng nhà chi nhanh/chậm, nhà đang giữ đơn, bấm vào nhà xem danh sách đơn thật và tải Excel."
 }
