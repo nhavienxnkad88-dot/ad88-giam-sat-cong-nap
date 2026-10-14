@@ -1,6 +1,6 @@
 {
- "version": "1.0.75",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.75.zip",
- "sha256": "497e2be9a10cd2260d967d6e4ba87f31394ea1b30b8d17e06df9ce49a767c530",
- "notes": "Giám sát XUẤT: thêm tab Tốc độ xuất khoản BT3 — xếp hạng nhà chi nhanh/chậm, nhà đang giữ đơn, bấm vào nhà xem danh sách đơn thật và tải Excel."
+ "version": "1.0.76",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.76.zip",
+ "sha256": "b9047acb8ef9163a07ff2ce3d7b54dc90b9100c6b979f08a19a5a99966039cd8",
+ "notes": "Sửa tiếng báo: tool không còn giữ thiết bị âm thanh của Chrome sau mỗi lần kêu (tránh lỗi AudioContext và làm treo âm thanh Zoom web)."
 }
