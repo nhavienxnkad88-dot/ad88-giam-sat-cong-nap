@@ -1,6 +1,6 @@
 {
- "version": "1.0.70",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.70.zip",
- "sha256": "e45da7cb4bb56095b93b7ec3d3d4ee2786168c4452ff2a5a2c42c3f47c7202ef",
- "notes": "Ảnh nền banner lấy từ kho Unsplash theo từ khóa (ảnh ngày / ảnh đêm), cài trong Cài đặt; lỗi thì dùng ảnh có sẵn"
+ "version": "1.0.71",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.71.zip",
+ "sha256": "7af4ae4a47685478e4bdc9cc200ece8cd2b8abc2ab3b9c9faece1462d5a685e8",
+ "notes": "Phí nhà thứ 3: chia mục Tổng quan / Thẻ cào / USDT / Thủ công / Tỷ lệ phí; tính phí như sổ (thẻ cào công ty chịu, USDT quy VND, thủ công dán số lệnh); phí theo ngày & tháng; màu + theme tối"
 }
