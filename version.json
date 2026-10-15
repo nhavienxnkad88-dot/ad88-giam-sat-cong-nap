@@ -1,6 +1,6 @@
 {
- "version": "1.0.81",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.81.zip",
- "sha256": "aa996e161752556d3f76926a15cc8ef888dd1f0980bb6f17669fab81af2c5674",
- "notes": "Callback trễ: đọc và hiển thị ngay khi mở tool, không phải chờ tải xong đơn cả ngày."
+ "version": "1.0.82",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.82.zip",
+ "sha256": "2ee048e4083023776e59341bad70c459c1b1e37f3def8f440b550ef62b38122b",
+ "notes": "Callback trễ: nhận các đơn đã xử lý từ chính đơn nạp (dấu callback/ép), đọc lại sau mỗi lượt quét; thêm khung kiểm tra dữ liệu đọc được từ BO."
 }
