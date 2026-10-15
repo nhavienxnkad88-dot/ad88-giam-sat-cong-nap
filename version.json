@@ -1,6 +1,6 @@
 {
- "version": "1.0.82",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.82.zip",
- "sha256": "2ee048e4083023776e59341bad70c459c1b1e37f3def8f440b550ef62b38122b",
- "notes": "Callback trễ: nhận các đơn đã xử lý từ chính đơn nạp (dấu callback/ép), đọc lại sau mỗi lượt quét; thêm khung kiểm tra dữ liệu đọc được từ BO."
+ "version": "1.0.83",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.83.zip",
+ "sha256": "61afbe70489161a150098aaac474c364862faba8e20e0f98e82a34a850cbb3a0",
+ "notes": "Callback trễ: khi đơn rời mục bất thường, tool tra lại số lệnh trên Tổng nạp tiền để biết ÉP (đã thành công) hay THỦ CÔNG (vẫn hết hạn) và tự tính phí thủ công; thêm ô dán số lệnh cho đơn đã xử lý lúc tool tắt."
 }
