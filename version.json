@@ -1,6 +1,6 @@
 {
- "version": "1.0.80",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.80.zip",
- "sha256": "94a4b9fb601ca48909552d706637ed0670627bcdb9b65f6faac1da7b07d4a776",
- "notes": "Callback trễ: dựng lại các đơn đã xử lý xong trong 7 ngày (từ đơn bổ sung, phiếu thủ công và đơn có dấu ép), hiện trạng thái đọc từng nguồn để dễ kiểm tra."
+ "version": "1.0.81",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.81.zip",
+ "sha256": "aa996e161752556d3f76926a15cc8ef888dd1f0980bb6f17669fab81af2c5674",
+ "notes": "Callback trễ: đọc và hiển thị ngay khi mở tool, không phải chờ tải xong đơn cả ngày."
 }
