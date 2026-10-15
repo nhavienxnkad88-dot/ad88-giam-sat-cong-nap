@@ -1,6 +1,6 @@
 {
- "version": "1.0.78",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.78.zip",
- "sha256": "536c4318a6b5a0f3f612d5dcffbb036bf6b3bdc4d624fc3a97654a89f693a235",
- "notes": "Giám sát XUẤT: thêm tab Thống kê rút (nạp − rút theo ngày, lệnh & tiền rút theo giờ, lý do lỗi/hủy, khách rút đáng chú ý, lệnh đã chi theo ngày). Tab Nhân viên FK/XNK: lệnh đang bị giữ lâu, phân bố thời gian, đúng hạn, từ chối, đẩy lại, ca làm theo giờ."
+ "version": "1.0.79",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.79.zip",
+ "sha256": "88de7e94db1dc02a27e00458934d9599c1a65f2b960d816b00351d35b12dbfe4",
+ "notes": "Giám sát NẠP: thêm tab Callback trễ (đọc mục Gọi lại thứ tự bất thường 7 ngày gần nhất mỗi phút, kêu chuông khi có đơn mới, theo dõi ÉP / THỦ CÔNG qua 4 bước, kiểm tra ghi chú). Phí thủ công của đơn callback trễ tự tính vào tab Phí và có bảng theo nhà ở mục Tỷ lệ phí. Đơn ép không tính vào tốc độ lên điểm."
 }
