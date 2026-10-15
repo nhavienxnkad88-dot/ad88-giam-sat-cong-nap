@@ -1,6 +1,6 @@
 {
- "version": "1.0.79",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.79.zip",
- "sha256": "88de7e94db1dc02a27e00458934d9599c1a65f2b960d816b00351d35b12dbfe4",
- "notes": "Giám sát NẠP: thêm tab Callback trễ (đọc mục Gọi lại thứ tự bất thường 7 ngày gần nhất mỗi phút, kêu chuông khi có đơn mới, theo dõi ÉP / THỦ CÔNG qua 4 bước, kiểm tra ghi chú). Phí thủ công của đơn callback trễ tự tính vào tab Phí và có bảng theo nhà ở mục Tỷ lệ phí. Đơn ép không tính vào tốc độ lên điểm."
+ "version": "1.0.80",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.80.zip",
+ "sha256": "94a4b9fb601ca48909552d706637ed0670627bcdb9b65f6faac1da7b07d4a776",
+ "notes": "Callback trễ: dựng lại các đơn đã xử lý xong trong 7 ngày (từ đơn bổ sung, phiếu thủ công và đơn có dấu ép), hiện trạng thái đọc từng nguồn để dễ kiểm tra."
 }
