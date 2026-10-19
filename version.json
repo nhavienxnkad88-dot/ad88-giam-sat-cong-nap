@@ -1,6 +1,6 @@
 {
- "version": "1.0.89",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.89.zip",
- "sha256": "384b7513a26e25240c8ee2766d7f6eaa67d316a69912e14545255d7206cdd3b1",
- "notes": "Xem ngày cũ: hiện ngay phần đã có, tải tiếp phần thiếu ở chế độ nền, không tải trùng, tắt máy thì lần sau tải tiếp; ngày bản cũ đã tải dở chỉ đọc nốt phần còn thiếu (không đọc lại từ trang 1)."
+ "version": "1.0.90",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.90.zip",
+ "sha256": "95ef6aba6bfcde372a5d34d0c7f6f29c63943482023b5253e081e7e1344a4db5",
+ "notes": "Tab mới Nạp đầu: khách nạp đầu theo ngày (tiền, tỷ lệ khách mới nạp thành công, khách mới bị mất, nạp lần 2), theo nhà · cổng, theo giờ, danh sách khách, và biểu đồ theo tháng (tự lưu mỗi ngày)."
 }
