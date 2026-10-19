@@ -1,6 +1,6 @@
 {
- "version": "1.0.87",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.87.zip",
- "sha256": "1e22b7cd8b07ce306f65f56b35a479345911d104108898fa70b9594d1d18565e",
- "notes": "Tab Tra cứu khách (thay Danh sách đơn): 2 ô Tài khoản / Số lệnh, tra đơn nạp + lệnh rút trong máy và trên BO 35 ngày, hồ sơ khách, nạp theo nhà, nạp − rút; danh sách Khách gặp khó hôm nay; danh sách đơn đầy đủ gom cuối tab."
+ "version": "1.0.89",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.89.zip",
+ "sha256": "384b7513a26e25240c8ee2766d7f6eaa67d316a69912e14545255d7206cdd3b1",
+ "notes": "Xem ngày cũ: hiện ngay phần đã có, tải tiếp phần thiếu ở chế độ nền, không tải trùng, tắt máy thì lần sau tải tiếp; ngày bản cũ đã tải dở chỉ đọc nốt phần còn thiếu (không đọc lại từ trang 1)."
 }
