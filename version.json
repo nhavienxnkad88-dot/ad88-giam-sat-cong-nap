@@ -1,6 +1,6 @@
 {
- "version": "1.0.86",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.86.zip",
- "sha256": "483bdd449b8aafa96301455a9e8bf16055fade1d31b62ffd86315a6e711fc9bc",
- "notes": "Tự chốt sổ ngày cũ: mở tool sau khi tắt máy qua đêm sẽ tự đọc bù phần thiếu (nạp + rút), chốt ngày và lưu tóm tắt phí, số khách. Ngày không mở máy (trong 7 ngày) tự tải cả ngày ở chế độ nền. Cài đặt: chọn số ngày giữ đơn chi tiết (mặc định 60)."
+ "version": "1.0.87",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.87.zip",
+ "sha256": "1e22b7cd8b07ce306f65f56b35a479345911d104108898fa70b9594d1d18565e",
+ "notes": "Tab Tra cứu khách (thay Danh sách đơn): 2 ô Tài khoản / Số lệnh, tra đơn nạp + lệnh rút trong máy và trên BO 35 ngày, hồ sơ khách, nạp theo nhà, nạp − rút; danh sách Khách gặp khó hôm nay; danh sách đơn đầy đủ gom cuối tab."
 }
