@@ -1,6 +1,6 @@
 {
- "version": "1.0.91",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.91.zip",
- "sha256": "ef90ba74ba4bbfed3495ebb630270c14388e62a69d791d5f855e31aa1357da32",
- "notes": "Bảo mật: key khóa theo máy + theo sân (tên miền BO), chống sửa file (sửa là khóa), và làm rối mã. Thêm tab Nạp đầu."
+ "version": "1.0.92",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.92.zip",
+ "sha256": "b4f47bdf0ca9c61f9823c778556813900eb52718a3e5e3e9c86c3a4a9144fa51",
+ "notes": "Thu hồi key nhanh hơn: tool đọc lại danh sách thu hồi mỗi lần mở và 20 phút/lần (trước là 6 giờ)."
 }
