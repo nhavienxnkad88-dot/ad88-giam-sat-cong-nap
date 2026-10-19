@@ -1,6 +1,6 @@
 {
- "version": "1.0.90",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.90.zip",
- "sha256": "95ef6aba6bfcde372a5d34d0c7f6f29c63943482023b5253e081e7e1344a4db5",
- "notes": "Tab mới Nạp đầu: khách nạp đầu theo ngày (tiền, tỷ lệ khách mới nạp thành công, khách mới bị mất, nạp lần 2), theo nhà · cổng, theo giờ, danh sách khách, và biểu đồ theo tháng (tự lưu mỗi ngày)."
+ "version": "1.0.91",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.91.zip",
+ "sha256": "ef90ba74ba4bbfed3495ebb630270c14388e62a69d791d5f855e31aa1357da32",
+ "notes": "Bảo mật: key khóa theo máy + theo sân (tên miền BO), chống sửa file (sửa là khóa), và làm rối mã. Thêm tab Nạp đầu."
 }
