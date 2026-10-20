@@ -1,6 +1,6 @@
 {
- "version": "1.0.92",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.92.zip",
- "sha256": "b4f47bdf0ca9c61f9823c778556813900eb52718a3e5e3e9c86c3a4a9144fa51",
- "notes": "Thu hồi key nhanh hơn: tool đọc lại danh sách thu hồi mỗi lần mở và 20 phút/lần (trước là 6 giờ)."
+ "version": "1.0.95",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.95.zip",
+ "sha256": "8b5964616756d66f584aed5e721e541a5d03553f7021a6518a3aab31a24ea9ad",
+ "notes": "Âm báo dịu hơn: cổng (hai tông cao–thấp) và callback trễ (ba nốt đi lên), tiếng tròn êm, phân biệt rõ hai loại."
 }
