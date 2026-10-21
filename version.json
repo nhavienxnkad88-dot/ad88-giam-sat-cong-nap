@@ -1,6 +1,6 @@
 {
- "version": "1.0.97",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.97.zip",
- "sha256": "aef9d55a16a73944920155295018e42be1d30e0ff59a57fbfcdf956dd903f474",
- "notes": "Lệnh ảo: chỉ tính khi khách tạo từ 10 lệnh nạp trở lên mà không nạp thành công lần nào; có 1 lệnh thành công thì không tính."
+ "version": "1.0.98",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.98.zip",
+ "sha256": "63950144ffed66442838eac0429fae85a797eb6ff040b4b256cba4b756ba6533",
+ "notes": "Thêm hiệu ứng nền động hai bên (bong bóng, sao băng, đom đóm, pháo hoa…): chọn trong Cài đặt > Hiệu ứng nền, tự đổi màu theo giao diện Sáng/Tối, áp dụng cả trang Nạp và Xuất."
 }
