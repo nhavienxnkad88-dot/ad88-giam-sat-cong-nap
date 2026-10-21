@@ -1,6 +1,6 @@
 {
- "version": "1.0.95",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.95.zip",
- "sha256": "8b5964616756d66f584aed5e721e541a5d03553f7021a6518a3aab31a24ea9ad",
- "notes": "Âm báo dịu hơn: cổng (hai tông cao–thấp) và callback trễ (ba nốt đi lên), tiếng tròn êm, phân biệt rõ hai loại."
+ "version": "1.0.97",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.97.zip",
+ "sha256": "aef9d55a16a73944920155295018e42be1d30e0ff59a57fbfcdf956dd903f474",
+ "notes": "Lệnh ảo: chỉ tính khi khách tạo từ 10 lệnh nạp trở lên mà không nạp thành công lần nào; có 1 lệnh thành công thì không tính."
 }
