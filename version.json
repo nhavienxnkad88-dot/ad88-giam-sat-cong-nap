@@ -1,6 +1,6 @@
 {
- "version": "1.1.2",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.2.zip",
- "sha256": "104e6a07e4e06630d91fe254c775aedfa7280859bfa7b7b521489e701134a53d",
- "notes": "Dọn lại phần Cài đặt: gom thành các nhóm gập/mở (Ngưỡng cảnh báo, Lệnh ảo, Hạn mức số dư, Giao diện & ảnh nền, Kết nối BO, Key & bản quyền, Nâng cấp) và ghim nút Lưu cố định ở dưới nên luôn bấm được, không còn bị khuất."
+ "version": "1.1.3",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.3.zip",
+ "sha256": "d8a7d5bc1fadb7d95ae798b7f75983b868c2f9b27596ff8f9b5653a3b7629d73",
+ "notes": "Thêm CẢNH BÁO KHẨN ưu tiên cao nhất: khi một cổng có từ 10 đơn KHÔNG thành công (lỗi/hết hạn/chờ quá 60s) từ ít nhất 2 khách trong vòng 3 phút → còi khẩn + thông báo TẮT CỔNG GẤP, lặp lại mỗi 90 giây khi còn lỗi. Chỉnh số đơn và số phút trong Cài đặt > Ngưỡng & cảnh báo cổng."
 }
