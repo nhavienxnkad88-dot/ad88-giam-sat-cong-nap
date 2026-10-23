@@ -1,6 +1,6 @@
 {
- "version": "1.1.1",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.1.zip",
- "sha256": "9cda1ea9535e8db897cc1cdc21403724542fa2a02859859042505e9d5ff9f168",
- "notes": "Bỏ phần số dư FaFa và tab FaFa riêng (lấy số dư khó, không cần). Cài đặt trở lại như cũ. Thống kê đơn FaFa xem trong tab Cổng nạp (chọn FaFaPay) và Nhà thứ 3. Vẫn giữ hiệu ứng nền động."
+ "version": "1.1.2",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.2.zip",
+ "sha256": "104e6a07e4e06630d91fe254c775aedfa7280859bfa7b7b521489e701134a53d",
+ "notes": "Dọn lại phần Cài đặt: gom thành các nhóm gập/mở (Ngưỡng cảnh báo, Lệnh ảo, Hạn mức số dư, Giao diện & ảnh nền, Kết nối BO, Key & bản quyền, Nâng cấp) và ghim nút Lưu cố định ở dưới nên luôn bấm được, không còn bị khuất."
 }
