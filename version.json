@@ -1,6 +1,6 @@
 {
- "version": "1.1.3",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.3.zip",
- "sha256": "d8a7d5bc1fadb7d95ae798b7f75983b868c2f9b27596ff8f9b5653a3b7629d73",
- "notes": "Thêm CẢNH BÁO KHẨN ưu tiên cao nhất: khi một cổng có từ 10 đơn KHÔNG thành công (lỗi/hết hạn/chờ quá 60s) từ ít nhất 2 khách trong vòng 3 phút → còi khẩn + thông báo TẮT CỔNG GẤP, lặp lại mỗi 90 giây khi còn lỗi. Chỉnh số đơn và số phút trong Cài đặt > Ngưỡng & cảnh báo cổng."
+ "version": "1.1.4",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.4.zip",
+ "sha256": "19061b22b70299cf729b27d273060ed8ea88780b11ccf9fd883df49076f777ce",
+ "notes": "Chỉnh cảnh báo khẩn cho đúng: chỉ kêu KHẨN khi trong X phút có nhiều đơn dồn mà KHÔNG có đơn nào thành công xen kẽ (cổng chết). Nếu vẫn có đơn thành công xen kẽ thì chỉ báo VÀNG lên điểm chậm. Bỏ qua cụm đơn mới dưới 90 giây để không báo nhầm lúc cổng vừa được đẩy lên đầu."
 }
