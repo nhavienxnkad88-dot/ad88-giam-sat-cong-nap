@@ -1,6 +1,9 @@
 {
- "version": "1.0.98",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.98.zip",
- "sha256": "63950144ffed66442838eac0429fae85a797eb6ff040b4b256cba4b756ba6533",
- "notes": "Thêm hiệu ứng nền động hai bên (bong bóng, sao băng, đom đóm, pháo hoa…): chọn trong Cài đặt > Hiệu ứng nền, tự đổi màu theo giao diện Sáng/Tối, áp dụng cả trang Nạp và Xuất."
+  "version": "1.4.218",
+  "zip": "ad88-1.4.218.zip",
+  "sha256": "542813961f64ca6a35918d571c5ff03bebb2b01f8e29f8c5249cf998e99a8628",
+  "size": 2920881,
+  "notes": "Sửa lỗi ảnh robot bị dính hình con bên cạnh ở mọi tư thế. Cắt lại theo từng con, soi máy toàn bộ 126 khung: 0 khung dính.",
+  "date": "2026-10-22T15:03:56.580Z",
+  "sig": "mmcQWTTZg3uKhE3wFti4Sqo3gjXYnemicT5NtDzrChdI5hqiEhNEg1dInCaMDD0Bx1Rcn6Oj9m77lllHwhwZtA"
 }
