@@ -1,6 +1,6 @@
 {
- "version": "1.0.99",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.0.99.zip",
- "sha256": "34c28419c895abf93a26acd1b0d86ed91aa70f799b8bfe6788b80d5a322bddba",
- "notes": "Thêm tab FaFa: xem số dư nhà FaFa (gọi trực tiếp API nhà, nhập API key trong Cài đặt) và thống kê đơn nạp FaFa theo kênh/giờ — vì cổng FaFa chỉ nạp, không hiện ở trang rút tiền BO. Có cảnh báo khi số dư xuống thấp."
+ "version": "1.1.0",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.0.zip",
+ "sha256": "6bbdd0d665f917ae1906e3b41f023f7f7563d0726426c7e93d9a12cc843a2757",
+ "notes": "Tab FaFa: tự lấy SỐ DƯ và DOANH THU hôm nay trực tiếp từ trang FaFa bằng phiên đăng nhập của bạn (không cần API key). Cộng thống kê đơn FaFa từ BO. Cảnh báo khi số dư thấp."
 }
