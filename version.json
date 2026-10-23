@@ -1,6 +1,6 @@
 {
- "version": "1.1.0",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.0.zip",
- "sha256": "6bbdd0d665f917ae1906e3b41f023f7f7563d0726426c7e93d9a12cc843a2757",
- "notes": "Tab FaFa: tự lấy SỐ DƯ và DOANH THU hôm nay trực tiếp từ trang FaFa bằng phiên đăng nhập của bạn (không cần API key). Cộng thống kê đơn FaFa từ BO. Cảnh báo khi số dư thấp."
+ "version": "1.1.1",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.1.zip",
+ "sha256": "9cda1ea9535e8db897cc1cdc21403724542fa2a02859859042505e9d5ff9f168",
+ "notes": "Bỏ phần số dư FaFa và tab FaFa riêng (lấy số dư khó, không cần). Cài đặt trở lại như cũ. Thống kê đơn FaFa xem trong tab Cổng nạp (chọn FaFaPay) và Nhà thứ 3. Vẫn giữ hiệu ứng nền động."
 }
