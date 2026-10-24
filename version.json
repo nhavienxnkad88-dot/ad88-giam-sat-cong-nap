@@ -1,6 +1,6 @@
 {
- "version": "1.1.4",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.4.zip",
- "sha256": "19061b22b70299cf729b27d273060ed8ea88780b11ccf9fd883df49076f777ce",
- "notes": "Chỉnh cảnh báo khẩn cho đúng: chỉ kêu KHẨN khi trong X phút có nhiều đơn dồn mà KHÔNG có đơn nào thành công xen kẽ (cổng chết). Nếu vẫn có đơn thành công xen kẽ thì chỉ báo VÀNG lên điểm chậm. Bỏ qua cụm đơn mới dưới 90 giây để không báo nhầm lúc cổng vừa được đẩy lên đầu."
+ "version": "1.1.5",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.5.zip",
+ "sha256": "af6918687d4759d37e355895008a72f3604ca8ac9f7051f9439eafba709d1e00",
+ "notes": "Tab Phí: thêm mục con 'Theo kênh' — ma trận Nhà × Kênh (số đơn thành công theo QR / Chuyển khoản / Momo / Zalo / Thẻ cào / USDT) kèm tổng đơn, tiền nạp, phí tháng và tỷ lệ phí TB từng nhà, cùng dải tổng đơn mỗi kênh toàn hệ thống. Dữ liệu theo kênh có từ bản này trở đi và cho các ngày tool còn lưu đơn."
 }
