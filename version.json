@@ -1,6 +1,6 @@
 {
- "version": "1.1.6",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.6.zip",
- "sha256": "70fe30cee4c023da3f4907ee546c711064b810b072980504de095a27974838c1",
- "notes": "Mỗi bảng (cả trang Nạp lẫn Xuất) giờ có nút 'Excel' ở góc tiêu đề — tải ra file giữ ĐÚNG MÀU như trên trang: màu từng nhà, sắc độ heat, ô xanh/vàng/đỏ tỷ lệ, phí đỏ, viền, đậm/lợt. File luôn đọc màu theo giao diện Sáng nên rõ chữ kể cả khi đang dùng nền Tối. Các nút tải dữ liệu đầy đủ sẵn có giữ nguyên."
+ "version": "1.1.7",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.7.zip",
+ "sha256": "2550e10b0a8283c82b195d11e6e405e9b8e6afb44078db84ec753d41874181e4",
+ "notes": "1) Đơn xuất: cột MÃ LỆNH giờ hiện mã đầy đủ có số đầu 01/02/03 (orderNoOut) để gửi nhà thứ 3 tìm đúng — rê chuột xem mã gốc; file Excel thêm cột 'Mã lệnh (đủ số đầu)' và 'Mã gốc'. 2) Biểu đồ: thêm nút 'Ảnh' ở mỗi thẻ biểu đồ để tải ra PNG giống trên trang (kèm tiêu đề + chú thích, tự dùng màu nền Sáng cho rõ)."
 }
