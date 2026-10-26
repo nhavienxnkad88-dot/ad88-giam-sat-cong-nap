@@ -1,6 +1,6 @@
 {
- "version": "1.1.5",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.5.zip",
- "sha256": "af6918687d4759d37e355895008a72f3604ca8ac9f7051f9439eafba709d1e00",
- "notes": "Tab Phí: thêm mục con 'Theo kênh' — ma trận Nhà × Kênh (số đơn thành công theo QR / Chuyển khoản / Momo / Zalo / Thẻ cào / USDT) kèm tổng đơn, tiền nạp, phí tháng và tỷ lệ phí TB từng nhà, cùng dải tổng đơn mỗi kênh toàn hệ thống. Dữ liệu theo kênh có từ bản này trở đi và cho các ngày tool còn lưu đơn."
+ "version": "1.1.6",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.6.zip",
+ "sha256": "70fe30cee4c023da3f4907ee546c711064b810b072980504de095a27974838c1",
+ "notes": "Mỗi bảng (cả trang Nạp lẫn Xuất) giờ có nút 'Excel' ở góc tiêu đề — tải ra file giữ ĐÚNG MÀU như trên trang: màu từng nhà, sắc độ heat, ô xanh/vàng/đỏ tỷ lệ, phí đỏ, viền, đậm/lợt. File luôn đọc màu theo giao diện Sáng nên rõ chữ kể cả khi đang dùng nền Tối. Các nút tải dữ liệu đầy đủ sẵn có giữ nguyên."
 }
