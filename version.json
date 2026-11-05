@@ -1,6 +1,6 @@
 {
- "version": "1.1.7",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.7.zip",
- "sha256": "2550e10b0a8283c82b195d11e6e405e9b8e6afb44078db84ec753d41874181e4",
- "notes": "1) Đơn xuất: cột MÃ LỆNH giờ hiện mã đầy đủ có số đầu 01/02/03 (orderNoOut) để gửi nhà thứ 3 tìm đúng — rê chuột xem mã gốc; file Excel thêm cột 'Mã lệnh (đủ số đầu)' và 'Mã gốc'. 2) Biểu đồ: thêm nút 'Ảnh' ở mỗi thẻ biểu đồ để tải ra PNG giống trên trang (kèm tiêu đề + chú thích, tự dùng màu nền Sáng cho rõ)."
+ "version": "1.1.8",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.8.zip",
+ "sha256": "a91ac00cc32525bac141819d1d63ccf60478bbf2193a6249bc3cdb08ba31ca4a",
+ "notes": "Thêm tab 'Đơn lớn ≥20tr' cho cả Nạp và Xuất: thống kê tốc độ xử lý đơn lớn của từng nhà thứ 3 (nạp = thời gian lên điểm; rút = thời gian nhà chi tiền), xem theo ngày hoặc tổng kết cả tháng, chấm điểm Tốt/Cần theo dõi/Chậm. Có danh sách chi tiết từng đơn: mã đơn (bên rút kèm số đầu 01/02/03), tên hội viên, nhà, số tiền, thời gian xử lý."
 }
