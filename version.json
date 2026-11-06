@@ -1,6 +1,6 @@
 {
- "version": "1.1.18",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.18.zip",
- "sha256": "dc8b21896499a69572abd5f0efe6a0348991963334a450b0b85e731cfab9d70d",
- "notes": "Thu nhỏ / chuyển tab / máy ngủ vẫn đọc bù đủ: (1) tool tự nhận ra khoảng thời gian bị Chrome tạm dừng và lùi về đúng mốc quét cuối để đọc bù trọn (cả Nạp và Xuất), không còn giới hạn 45 phút / 15 phút; (2) mở lại tab là quét ngay; (3) phần nền đánh thức tool mỗi phút để vẫn quét khi đang thu nhỏ. Thêm quyền 'alarms' (không cần duyệt lại)."
+ "version": "1.1.19",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.19.zip",
+ "sha256": "1dd839bb6245081310be18abde79d7b609a39579850923c1f96cccc3cff702a5",
+ "notes": "Tải ngày cũ / chốt sổ nhanh hơn: (1) còn ngày cũ đang tải dở thì làm liền lượt kế tiếp, không ngồi chờ 30 giây; (2) không đọc lại toàn bộ đơn của ngày đang xem mỗi lượt nữa (đơn mới đổ thẳng vào màn hình, chốt xong mới đọc lại 1 lần); (3) đang xem ngày cũ chưa đủ đơn thì dành 45 giây mỗi lượt cho việc tải."
 }
