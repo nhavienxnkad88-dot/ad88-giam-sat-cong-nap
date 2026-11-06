@@ -1,6 +1,6 @@
 {
- "version": "1.1.15",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.15.zip",
- "sha256": "918f750bd34cf399df44e4856cd0d89f0cec483ea17dad83cce2ed09ddf9c15f",
- "notes": "Tab Lệnh ảo: lấy thẻ tài khoản chắc chắn bằng cách tra theo MÃ ĐƠN của chính tài khoản đó trên BO (cách đã chạy ổn định), đọc đúng userTag -> hiện SALE/Rủi ro/Lạm Dụng/LD cho mọi tài khoản, kể cả đơn cũ. Đã kiểm thử trên dữ liệu API thật."
+ "version": "1.1.17",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.17.zip",
+ "sha256": "4305bf1d404e6de80829dd35e09c2f509f1b686211394dbf7ccb879b5c4ee7dc",
+ "notes": "Quét nhanh hơn nhiều mà KHÔNG bớt thông tin: phần đối chiếu ngày với BO trước đây mỗi giờ lại đọc lại toàn bộ đơn của cả ngày (24 lần), nay chỉ đọc 1 lần. Vẫn đối chiếu đủ 24 khung giờ, vẫn bổ sung đơn thiếu và phí như cũ."
 }
