@@ -1,6 +1,6 @@
 {
- "version": "1.1.8",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.8.zip",
- "sha256": "a91ac00cc32525bac141819d1d63ccf60478bbf2193a6249bc3cdb08ba31ca4a",
- "notes": "Thêm tab 'Đơn lớn ≥20tr' cho cả Nạp và Xuất: thống kê tốc độ xử lý đơn lớn của từng nhà thứ 3 (nạp = thời gian lên điểm; rút = thời gian nhà chi tiền), xem theo ngày hoặc tổng kết cả tháng, chấm điểm Tốt/Cần theo dõi/Chậm. Có danh sách chi tiết từng đơn: mã đơn (bên rút kèm số đầu 01/02/03), tên hội viên, nhà, số tiền, thời gian xử lý."
+ "version": "1.1.9",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.9.zip",
+ "sha256": "f0a798bb4ddc9393cc6aafdfbe826bddba0f663b8b7c504fbe20f0e206124f76",
+ "notes": "Tab Lệnh ảo: thêm cột 'Thẻ' hiển thị thẻ BO gắn cho tài khoản (SALE, Rủi ro cao, Rủi ro nghi ngờ…) và LD, để nhận ra khách do sale kéo về, tránh lọc nhầm khách thật thành lệnh ảo."
 }
