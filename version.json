@@ -1,6 +1,6 @@
 {
- "version": "1.1.13",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.13.zip",
- "sha256": "e3b2a353986ca3632e4484b2e14c9fde6708e9cad444b684f63c1c410670bc50",
- "notes": "Tab Lệnh ảo: cột Lệnh đầu/Lệnh cuối giờ hiện cả NGÀY + giờ 24h (vd 06/11 08:29:57) cho dễ đối chiếu với BO, thay vì chỉ giờ:phút:giây."
+ "version": "1.1.14",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.14.zip",
+ "sha256": "90dd230efa5a5dab4ecbbfc1b33c3b10b99073a6bb79276ae6f6e2622df50517",
+ "notes": "Tab Lệnh ảo: thẻ tài khoản (SALE/Rủi ro/Lạm Dụng/LD) giờ được tra THẲNG từ BO cho từng tài khoản đang hiển thị và nhớ lại — điền trong vài giây, không phải chờ quét lại cả ngày. Khắc phục trường hợp tài khoản SALE (vd đơn cũ) không hiện thẻ."
 }
