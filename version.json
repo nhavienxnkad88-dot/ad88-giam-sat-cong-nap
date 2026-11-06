@@ -1,6 +1,6 @@
 {
- "version": "1.1.14",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.14.zip",
- "sha256": "90dd230efa5a5dab4ecbbfc1b33c3b10b99073a6bb79276ae6f6e2622df50517",
- "notes": "Tab Lệnh ảo: thẻ tài khoản (SALE/Rủi ro/Lạm Dụng/LD) giờ được tra THẲNG từ BO cho từng tài khoản đang hiển thị và nhớ lại — điền trong vài giây, không phải chờ quét lại cả ngày. Khắc phục trường hợp tài khoản SALE (vd đơn cũ) không hiện thẻ."
+ "version": "1.1.15",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.15.zip",
+ "sha256": "918f750bd34cf399df44e4856cd0d89f0cec483ea17dad83cce2ed09ddf9c15f",
+ "notes": "Tab Lệnh ảo: lấy thẻ tài khoản chắc chắn bằng cách tra theo MÃ ĐƠN của chính tài khoản đó trên BO (cách đã chạy ổn định), đọc đúng userTag -> hiện SALE/Rủi ro/Lạm Dụng/LD cho mọi tài khoản, kể cả đơn cũ. Đã kiểm thử trên dữ liệu API thật."
 }
