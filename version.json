@@ -1,6 +1,6 @@
 {
- "version": "1.1.9",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.9.zip",
- "sha256": "f0a798bb4ddc9393cc6aafdfbe826bddba0f663b8b7c504fbe20f0e206124f76",
- "notes": "Tab Lệnh ảo: thêm cột 'Thẻ' hiển thị thẻ BO gắn cho tài khoản (SALE, Rủi ro cao, Rủi ro nghi ngờ…) và LD, để nhận ra khách do sale kéo về, tránh lọc nhầm khách thật thành lệnh ảo."
+ "version": "1.1.10",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.10.zip",
+ "sha256": "be7e96028f3703624268f22b786cfb5916ae47ca55e78ac68f4c5f9f43c928c3",
+ "notes": "Tab Lệnh ảo: cột 'Thẻ' (SALE, Rủi ro cao, Rủi ro nghi ngờ, LD…) giờ có cả trong file Excel tải về để lọc, không chỉ trên màn hình."
 }
