@@ -1,6 +1,6 @@
 {
- "version": "1.1.17",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.17.zip",
- "sha256": "4305bf1d404e6de80829dd35e09c2f509f1b686211394dbf7ccb879b5c4ee7dc",
- "notes": "Quét nhanh hơn nhiều mà KHÔNG bớt thông tin: phần đối chiếu ngày với BO trước đây mỗi giờ lại đọc lại toàn bộ đơn của cả ngày (24 lần), nay chỉ đọc 1 lần. Vẫn đối chiếu đủ 24 khung giờ, vẫn bổ sung đơn thiếu và phí như cũ."
+ "version": "1.1.18",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.18.zip",
+ "sha256": "dc8b21896499a69572abd5f0efe6a0348991963334a450b0b85e731cfab9d70d",
+ "notes": "Thu nhỏ / chuyển tab / máy ngủ vẫn đọc bù đủ: (1) tool tự nhận ra khoảng thời gian bị Chrome tạm dừng và lùi về đúng mốc quét cuối để đọc bù trọn (cả Nạp và Xuất), không còn giới hạn 45 phút / 15 phút; (2) mở lại tab là quét ngay; (3) phần nền đánh thức tool mỗi phút để vẫn quét khi đang thu nhỏ. Thêm quyền 'alarms' (không cần duyệt lại)."
 }
