@@ -1,6 +1,6 @@
 {
- "version": "1.1.20",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.20.zip",
- "sha256": "1b5f566d5431c23c6936c1421837723250f97b08b39315cd4382e7228fd0e412",
- "notes": "Xuất khoản: thêm tab System tự đẩy (thống kê system chia lệnh cho từng nhà, so với Độ mạnh, theo giờ, các đợt dồn 1 nhà, nhật ký đổi Độ mạnh, 14 ngày). Nạp: lệnh ảo nhận thêm kiểu tài khoản nạp ≥50 triệu chưa từng nạp thành công."
+ "version": "1.1.21",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.21.zip",
+ "sha256": "d58b1cc64bdab7defc570c3326c94b7ad9acfdfc86c2009510d96b2d79320fbb",
+ "notes": "Tab System tự đẩy: thêm Lệnh / Thành công / TB xử lý theo BO (trang Thống kê rút tiền của bên thứ ba) và Hạn mức mỗi lệnh của từng nhà."
 }
