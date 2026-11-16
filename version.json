@@ -1,6 +1,6 @@
 {
- "version": "1.1.19",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.19.zip",
- "sha256": "1dd839bb6245081310be18abde79d7b609a39579850923c1f96cccc3cff702a5",
- "notes": "Tải ngày cũ / chốt sổ nhanh hơn: (1) còn ngày cũ đang tải dở thì làm liền lượt kế tiếp, không ngồi chờ 30 giây; (2) không đọc lại toàn bộ đơn của ngày đang xem mỗi lượt nữa (đơn mới đổ thẳng vào màn hình, chốt xong mới đọc lại 1 lần); (3) đang xem ngày cũ chưa đủ đơn thì dành 45 giây mỗi lượt cho việc tải."
+ "version": "1.1.20",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.20.zip",
+ "sha256": "1b5f566d5431c23c6936c1421837723250f97b08b39315cd4382e7228fd0e412",
+ "notes": "Xuất khoản: thêm tab System tự đẩy (thống kê system chia lệnh cho từng nhà, so với Độ mạnh, theo giờ, các đợt dồn 1 nhà, nhật ký đổi Độ mạnh, 14 ngày). Nạp: lệnh ảo nhận thêm kiểu tài khoản nạp ≥50 triệu chưa từng nạp thành công."
 }
