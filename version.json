@@ -1,6 +1,6 @@
 {
- "version": "1.1.23",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.23.zip",
- "sha256": "92d10c87a7365ade81f63516f151c083862ff42970a7027ddfb8b4ccdae1f99f",
- "notes": "Lệnh ảo: nhớ tài khoản đã tải Excel / sao chép (Đã lọc); chọn Tất cả / Chưa lọc / Đã lọc để tải lại không bị trùng; tài khoản đã lọc mà vẫn tạo lệnh mới được tính lại là Chưa lọc; Excel thêm cột Đã lọc lúc."
+ "version": "1.1.24",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.24.zip",
+ "sha256": "8ac1829251d9db193f26ff692f4c9039a3558f7f4f7d70bfdfd6b91e02e85fef",
+ "notes": "Lệnh ảo: tài khoản có cấp độ CAMNAP trên BO tự tính là Đã lọc (tool tra lại cấp độ mỗi 4 phút); mọi nút Excel trong tab Lệnh ảo đều ghi nhận Đã lọc."
 }
