@@ -1,6 +1,6 @@
 {
- "version": "1.1.21",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.21.zip",
- "sha256": "d58b1cc64bdab7defc570c3326c94b7ad9acfdfc86c2009510d96b2d79320fbb",
- "notes": "Tab System tự đẩy: thêm Lệnh / Thành công / TB xử lý theo BO (trang Thống kê rút tiền của bên thứ ba) và Hạn mức mỗi lệnh của từng nhà."
+ "version": "1.1.22",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.22.zip",
+ "sha256": "7f6e3623c0319876a1108d934a4946f481c859ecd92f389357e5bb942051859b",
+ "notes": "Lệnh ảo: lọc theo khung giờ chỉ hiện tài khoản có tạo lệnh trong khung giờ đó; tài khoản đã đánh dấu mà không tạo lệnh trong khung giờ chỉ hiện khi bấm ô Đã đánh dấu."
 }
