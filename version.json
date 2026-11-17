@@ -1,6 +1,6 @@
 {
- "version": "1.1.24",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.24.zip",
- "sha256": "8ac1829251d9db193f26ff692f4c9039a3558f7f4f7d70bfdfd6b91e02e85fef",
- "notes": "Lệnh ảo: tài khoản có cấp độ CAMNAP trên BO tự tính là Đã lọc (tool tra lại cấp độ mỗi 4 phút); mọi nút Excel trong tab Lệnh ảo đều ghi nhận Đã lọc."
+ "version": "1.1.25",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.25.zip",
+ "sha256": "c3bfdedd1d35c0e3d2c10200826505eea16f7650196e3b087e7f3a4596d9173a",
+ "notes": "Lệnh ảo: đọc cấp độ thành viên thẳng từ danh sách thành viên BO; tài khoản CAMNAP tự chuyển sang Đã lọc (kiểm tra lại mỗi 4 phút khi mở tab Lệnh ảo)."
 }
