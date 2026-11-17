@@ -1,6 +1,6 @@
 {
- "version": "1.1.25",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.25.zip",
- "sha256": "c3bfdedd1d35c0e3d2c10200826505eea16f7650196e3b087e7f3a4596d9173a",
- "notes": "Lệnh ảo: đọc cấp độ thành viên thẳng từ danh sách thành viên BO; tài khoản CAMNAP tự chuyển sang Đã lọc (kiểm tra lại mỗi 4 phút khi mở tab Lệnh ảo)."
+ "version": "1.1.26",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.26.zip",
+ "sha256": "1d3ff63c0ba3f1afeed2aedc02dda075644227df25cc6707347f1c0a3f9c0bfc",
+ "notes": "Lệnh ảo: cột Thẻ lấy đủ thẻ thành viên từ danh sách thành viên BO (SALE, Rủi ro cao, VIP88K…) cùng cấp độ LD / CAMNAP; Excel có CAMNAP."
 }
