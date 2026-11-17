@@ -1,6 +1,6 @@
 {
- "version": "1.1.27",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.27.zip",
- "sha256": "170152d0dc7f1b87cb93ddf230fee11d9f29c4868f1fafae873237da943cc38f",
- "notes": "Lệnh ảo: thêm cột Cấp độ thành viên (Mặc định, ND, LD, NT10, CAMNAP…) lấy từ danh sách thành viên BO; Excel có cột Cấp độ thành viên."
+ "version": "1.1.28",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.28.zip",
+ "sha256": "cf3ab13998caf0ec81d5ee43a7b25a5f668da962116bc90192f4945aa6bb76c2",
+ "notes": "Lệnh ảo: bảng gọn vừa chiều ngang (gộp Thẻ · Cấp độ, Lệnh · thành công, Lệnh lớn nhất · tổng tiền, Lệnh đầu · cuối; dấu hiệu viết ngắn; cột Tài khoản cố định khi kéo ngang). Excel giữ đủ cột."
 }
