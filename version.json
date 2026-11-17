@@ -1,6 +1,6 @@
 {
- "version": "1.1.28",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.28.zip",
- "sha256": "cf3ab13998caf0ec81d5ee43a7b25a5f668da962116bc90192f4945aa6bb76c2",
- "notes": "Lệnh ảo: bảng gọn vừa chiều ngang (gộp Thẻ · Cấp độ, Lệnh · thành công, Lệnh lớn nhất · tổng tiền, Lệnh đầu · cuối; dấu hiệu viết ngắn; cột Tài khoản cố định khi kéo ngang). Excel giữ đủ cột."
+ "version": "1.1.29",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.29.zip",
+ "sha256": "e14ad1be4ebf5ad05ace9859a37c89a1bb32d98e33a40d33711f9a30c647a3ac",
+ "notes": "Lệnh ảo: tài khoản có thẻ / cấp độ TEST, NHOMTHU, SALE, VIP88K, BIAN là tài khoản uy tín — không xếp vào lệnh ảo, không bị bỏ khỏi thống kê."
 }
