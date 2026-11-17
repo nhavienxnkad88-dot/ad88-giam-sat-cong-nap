@@ -1,6 +1,6 @@
 {
- "version": "1.1.22",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.22.zip",
- "sha256": "7f6e3623c0319876a1108d934a4946f481c859ecd92f389357e5bb942051859b",
- "notes": "Lệnh ảo: lọc theo khung giờ chỉ hiện tài khoản có tạo lệnh trong khung giờ đó; tài khoản đã đánh dấu mà không tạo lệnh trong khung giờ chỉ hiện khi bấm ô Đã đánh dấu."
+ "version": "1.1.23",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.23.zip",
+ "sha256": "92d10c87a7365ade81f63516f151c083862ff42970a7027ddfb8b4ccdae1f99f",
+ "notes": "Lệnh ảo: nhớ tài khoản đã tải Excel / sao chép (Đã lọc); chọn Tất cả / Chưa lọc / Đã lọc để tải lại không bị trùng; tài khoản đã lọc mà vẫn tạo lệnh mới được tính lại là Chưa lọc; Excel thêm cột Đã lọc lúc."
 }
