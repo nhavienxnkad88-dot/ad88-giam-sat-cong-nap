@@ -1,6 +1,6 @@
 {
- "version": "1.1.31",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.31.zip",
- "sha256": "b23f6f223597d474fdc00184324c4cb91b1872f29599bc018a90c3353e4ca71c",
- "notes": "Lệnh ảo: bỏ nhận kiểu tên ngắn huynh703ya (dễ trùng khách thật); chỉ bắt tài khoản mới đăng ký có đuôi chữ lung tung kiểu tool tạo."
+ "version": "1.1.32",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.32.zip",
+ "sha256": "e33faf5de793c7348bd5c10e16e529dcc1de4ec99da33e95dd75000c7c314ae8",
+ "notes": "Lệnh ảo: tên kiểu huynh703ya tính là dấu hiệu nhẹ — tạo lệnh nạp lớn mà chưa từng nạp thành công thì vào lệnh ảo ngay; mới đăng ký chưa tạo lệnh thì không đưa vào."
 }
