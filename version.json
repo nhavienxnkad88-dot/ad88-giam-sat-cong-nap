@@ -1,6 +1,6 @@
 {
- "version": "1.1.29",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.29.zip",
- "sha256": "e14ad1be4ebf5ad05ace9859a37c89a1bb32d98e33a40d33711f9a30c647a3ac",
- "notes": "Lệnh ảo: tài khoản có thẻ / cấp độ TEST, NHOMTHU, SALE, VIP88K, BIAN là tài khoản uy tín — không xếp vào lệnh ảo, không bị bỏ khỏi thống kê."
+ "version": "1.1.30",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.30.zip",
+ "sha256": "8170da9af13083f878313fab19c7145f7ff7dfd43a2dd3e2ce1847068625d235",
+ "notes": "Lệnh ảo: phát hiện tài khoản VỪA ĐĂNG KÝ có tên kiểu máy tạo (chưa cần tạo lệnh nạp) và đưa luôn vào danh sách nghi ngờ để chặn trước; nhận thêm kiểu tên huynh703ya."
 }
