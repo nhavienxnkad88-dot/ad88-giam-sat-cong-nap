@@ -1,6 +1,6 @@
 {
- "version": "1.1.30",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.30.zip",
- "sha256": "8170da9af13083f878313fab19c7145f7ff7dfd43a2dd3e2ce1847068625d235",
- "notes": "Lệnh ảo: phát hiện tài khoản VỪA ĐĂNG KÝ có tên kiểu máy tạo (chưa cần tạo lệnh nạp) và đưa luôn vào danh sách nghi ngờ để chặn trước; nhận thêm kiểu tên huynh703ya."
+ "version": "1.1.31",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.31.zip",
+ "sha256": "b23f6f223597d474fdc00184324c4cb91b1872f29599bc018a90c3353e4ca71c",
+ "notes": "Lệnh ảo: bỏ nhận kiểu tên ngắn huynh703ya (dễ trùng khách thật); chỉ bắt tài khoản mới đăng ký có đuôi chữ lung tung kiểu tool tạo."
 }
