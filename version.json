@@ -1,6 +1,6 @@
 {
- "version": "1.1.37",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.37.zip",
- "sha256": "1c1989f6f07faa4d6bc6467315580dd705b3c0f1b43d00527c3c56b641b926ca",
- "notes": "Tốc độ xử lý: phần Tổng kết đổi sang kiểu vinh danh (nhà nhanh nhất / chậm nhất) + bảng so sánh đối đầu 3 nhanh – 3 chậm, bấm Xem để mở 3 đơn chậm nhất."
+ "version": "1.1.38",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.38.zip",
+ "sha256": "101856679419776b41f7e00e2bd9f34e40877101db16add0cd6917a33626f709",
+ "notes": "Bảo trì cổng: giao diện mới (đang bảo trì ngay lúc này, dòng thời gian 24h, đợt làm khách lỗi đơn); tách riêng nhà không dùng (tự đoán hoặc tự đánh dấu) khỏi nhà đang bảo trì."
 }
