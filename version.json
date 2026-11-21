@@ -1,6 +1,6 @@
 {
- "version": "1.1.40",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.40.zip",
- "sha256": "265adc7a8047ec34151a75cb5ecd158f24bf47ef76e7cb9270665aad50b21198",
- "notes": "Callback trễ: giao diện mới kiểu hộp thư — cột trái là các bước (mỗi ô 1 màu nền), bên phải là thẻ từng đơn và 3 ô thống kê nhỏ (bấm để xem bảng đầy đủ)."
+ "version": "1.1.41",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.41.zip",
+ "sha256": "5b4a038c5d43b7f1ddb5c82179b0c8a1bff94757d926addd77539ebf6474bbba",
+ "notes": "Tăng tốc đọc đơn: giảm phần tính toán lặp lại mỗi lần vẽ (lệnh ảo, số đếm trên các tab, bảo trì), không đọc lịch sử 3 ngày trong lúc đang tải đơn."
 }
