@@ -1,6 +1,6 @@
 {
- "version": "1.1.35",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.35.zip",
- "sha256": "2aba66392c95965c6baaae17806f8cc7ef85416326746906abd9f2d961a8aaa5",
- "notes": "Tổng quan: Cảnh báo dạng bảng điều phối (mỗi cổng 1 dòng, dải 30 phút, bấm để mở / thu gọn danh sách đơn ngay tại chỗ); thay dãy thẻ các nhà bằng Nhịp 30 phút các nhà (số dư xem ở tab Nhà thứ 3)."
+ "version": "1.1.36",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.36.zip",
+ "sha256": "1538b401e490b34add1ef8f5efbb91eb206461991f5fa985710dfe3b2af1e576",
+ "notes": "Tốc độ xử lý làm lại: xem theo ngày / tháng, mỗi nhà 1 dòng (bấm xem từng kênh), bảng màu từng ngày / giờ, tổng kết nhà nhanh nhất & chậm nhất đầy đủ. Kiểm soát nạp và Tốc độ xử lý không tính đơn lệnh ảo."
 }
