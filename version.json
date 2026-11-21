@@ -1,6 +1,6 @@
 {
- "version": "1.1.39",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.39.zip",
- "sha256": "9511bc58da6a7410872c55970c510c47c56a1766b97bda4d6b9b178addb26b83",
- "notes": "Nhà thứ 3: số dư dạng bảng gọn mỗi nhà 1 dòng (nút Bảng gọn / Thẻ chi tiết). Bảo trì cổng: nút Không dùng / Đang dùng."
+ "version": "1.1.40",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.40.zip",
+ "sha256": "265adc7a8047ec34151a75cb5ecd158f24bf47ef76e7cb9270665aad50b21198",
+ "notes": "Callback trễ: giao diện mới kiểu hộp thư — cột trái là các bước (mỗi ô 1 màu nền), bên phải là thẻ từng đơn và 3 ô thống kê nhỏ (bấm để xem bảng đầy đủ)."
 }
