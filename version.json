@@ -1,6 +1,6 @@
 {
- "version": "1.1.34",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.34.zip",
- "sha256": "e7d7be2fb6d06fa63258d6a7d5934a676e3268c83fc1e782cd35633f115003c2",
- "notes": "Lệnh ảo: tài khoản mới đăng ký tên lung tung vẫn đưa vào (kể cả đã tạo lệnh nhưng chưa thành công); chỉ loại khi đã có lệnh nạp thành công."
+ "version": "1.1.35",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.35.zip",
+ "sha256": "2aba66392c95965c6baaae17806f8cc7ef85416326746906abd9f2d961a8aaa5",
+ "notes": "Tổng quan: Cảnh báo dạng bảng điều phối (mỗi cổng 1 dòng, dải 30 phút, bấm để mở / thu gọn danh sách đơn ngay tại chỗ); thay dãy thẻ các nhà bằng Nhịp 30 phút các nhà (số dư xem ở tab Nhà thứ 3)."
 }
