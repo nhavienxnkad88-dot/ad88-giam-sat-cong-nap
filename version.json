@@ -1,6 +1,6 @@
 {
- "version": "1.1.41",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.41.zip",
- "sha256": "5b4a038c5d43b7f1ddb5c82179b0c8a1bff94757d926addd77539ebf6474bbba",
- "notes": "Tăng tốc đọc đơn: giảm phần tính toán lặp lại mỗi lần vẽ (lệnh ảo, số đếm trên các tab, bảo trì), không đọc lịch sử 3 ngày trong lúc đang tải đơn."
+ "version": "1.1.42",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.42.zip",
+ "sha256": "ed97c3837030e97a17c3feab013108968ca19aad5ff10b5a1b9e81c36a4c5eb4",
+ "notes": "Lệnh ảo: cập nhật CAMNAP nhanh — mỗi phút đọc thẳng danh sách thành viên CAMNAP trên BO, tài khoản nào vừa bị cấm nạp tự chuyển Đã lọc; tài khoản không có trong danh sách thì hỏi riêng 2 phút/lần."
 }
