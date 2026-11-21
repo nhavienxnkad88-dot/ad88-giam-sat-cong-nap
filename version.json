@@ -1,6 +1,6 @@
 {
- "version": "1.1.36",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.36.zip",
- "sha256": "1538b401e490b34add1ef8f5efbb91eb206461991f5fa985710dfe3b2af1e576",
- "notes": "Tốc độ xử lý làm lại: xem theo ngày / tháng, mỗi nhà 1 dòng (bấm xem từng kênh), bảng màu từng ngày / giờ, tổng kết nhà nhanh nhất & chậm nhất đầy đủ. Kiểm soát nạp và Tốc độ xử lý không tính đơn lệnh ảo."
+ "version": "1.1.37",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.37.zip",
+ "sha256": "1c1989f6f07faa4d6bc6467315580dd705b3c0f1b43d00527c3c56b641b926ca",
+ "notes": "Tốc độ xử lý: phần Tổng kết đổi sang kiểu vinh danh (nhà nhanh nhất / chậm nhất) + bảng so sánh đối đầu 3 nhanh – 3 chậm, bấm Xem để mở 3 đơn chậm nhất."
 }
