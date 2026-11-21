@@ -1,6 +1,6 @@
 {
- "version": "1.1.32",
- "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.32.zip",
- "sha256": "e33faf5de793c7348bd5c10e16e529dcc1de4ec99da33e95dd75000c7c314ae8",
- "notes": "Lệnh ảo: tên kiểu huynh703ya tính là dấu hiệu nhẹ — tạo lệnh nạp lớn mà chưa từng nạp thành công thì vào lệnh ảo ngay; mới đăng ký chưa tạo lệnh thì không đưa vào."
+ "version": "1.1.33",
+ "zip": "AD88-Giam-Sat-Cong-Nap-v1.1.33.zip",
+ "sha256": "dd0caac377cd7b593b2e8524cd2b823704887d7ee64927375c60c49e94c51f50",
+ "notes": "Cảnh báo: thẻ mới rõ ràng (kết luận, 4 con số, danh sách đơn chờ / lỗi / chậm, nút xem đủ đơn) và không còn tính đơn lệnh ảo. Lệnh ảo: tài khoản mới đăng ký đã nạp tiền (hoặc cấp ND/NT) không bị đưa vào."
 }
